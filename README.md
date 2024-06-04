@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/hruday-kolipaka/)
 [![Email](https://img.icons8.com/color/96/000000/gmail.png)](mailto:kolipakahruday@gmail.com)
-[![Phone](https://img.icons8.com/color/96/000000/phone.png)](tel:+916304415093)
+
 
 
 <!---
