@@ -10,54 +10,14 @@
 - ⚡ Fun fact: I love experimenting with new recipes in my free time!
 
 ## Skills
-- <i class="fab fa-git"></i> Git
-   <div style="width: 100%;">
-       <div style="background-color: #ddd; height: 10px; border-radius: 5px;">
-           <div style="background-color: #4caf50; height: 100%; width: 90%; border-radius: 5px;"></div>
-       </div>
-   </div>
-- <i class="fab fa-maven"></i> Maven
-   <div style="width: 100%;">
-       <div style="background-color: #ddd; height: 10px; border-radius: 5px;">
-           <div style="background-color: #4caf50; height: 100%; width: 85%; border-radius: 5px;"></div>
-       </div>
-   </div>
-- <i class="fab fa-jenkins"></i> Jenkins
-   <div style="width: 100%;">
-       <div style="background-color: #ddd; height: 10px; border-radius: 5px;">
-           <div style="background-color: #4caf50; height: 100%; width: 80%; border-radius: 5px;"></div>
-       </div>
-   </div>
-- <i class="fab fa-ansible"></i> Ansible
-   <div style="width: 100%;">
-       <div style="background-color: #ddd; height: 10px; border-radius: 5px;">
-           <div style="background-color: #4caf50; height: 100%; width: 85%; border-radius: 5px;"></div>
-       </div>
-   </div>
-- <i class="fab fa-docker"></i> Docker
-   <div style="width: 100%;">
-       <div style="background-color: #ddd; height: 10px; border-radius: 5px;">
-           <div style="background-color: #4caf50; height: 100%; width: 90%; border-radius: 5px;"></div>
-       </div>
-   </div>
-- <i class="fab fa-kubernetes"></i> Kubernetes
-   <div style="width: 100%;">
-       <div style="background-color: #ddd; height: 10px; border-radius: 5px;">
-           <div style="background-color: #4caf50; height: 100%; width: 80%; border-radius: 5px;"></div>
-       </div>
-   </div>
-- <i class="fab fa-terraform"></i> Terraform
-   <div style="width: 100%;">
-       <div style="background-color: #ddd; height: 10px; border-radius: 5px;">
-           <div style="background-color: #4caf50; height: 100%; width: 85%; border-radius: 5px;"></div>
-       </div>
-   </div>
-- <i class="fab fa-aws"></i> AWS Cloud
-   <div style="width: 100%;">
-       <div style="background-color: #ddd; height: 10px; border-radius: 5px;">
-           <div style="background-color: #4caf50; height: 100%; width: 90%; border-radius: 5px;"></div>
-       </div>
-   </div>
+- ![Git](https://img.shields.io/badge/Git-90%25-success)
+- ![Maven](https://img.shields.io/badge/Maven-85%25-success)
+- ![Jenkins](https://img.shields.io/badge/Jenkins-80%25-success)
+- ![Ansible](https://img.shields.io/badge/Ansible-85%25-success)
+- ![Docker](https://img.shields.io/badge/Docker-90%25-success)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-80%25-success)
+- ![Terraform](https://img.shields.io/badge/Terraform-85%25-success)
+- ![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-90%25-success)
 
 
 
