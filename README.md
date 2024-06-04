@@ -11,14 +11,14 @@
 
 # Skills
 
-- ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
-- ![Maven](https://img.shields.io/badge/-Maven-black?logo=apache-maven&style=social)
-- ![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=social)
-- ![Ansible](https://img.shields.io/badge/-Ansible-black?logo=ansible&style=social)
-- ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)
-- ![Terraform](https://img.shields.io/badge/-Terraform-black?logo=terraform&style=social)
-- ![AWS Cloud](https://img.shields.io/badge/-AWS_Cloud-black?logo=amazon-aws&style=social)
+- <img src="https://img.icons8.com/color/96/000000/git.png"/> Git
+- <img src="https://img.icons8.com/color/96/000000/maven.png"/> Maven
+- <img src="https://img.icons8.com/color/96/000000/jenkins.png"/> Jenkins
+- <img src="https://img.icons8.com/color/96/000000/ansible.png"/> Ansible
+- <img src="https://img.icons8.com/color/96/000000/docker.png"/> Docker
+- <img src="https://img.icons8.com/color/96/000000/kubernetes.png"/> Kubernetes
+- <img src="https://img.icons8.com/color/96/000000/terraform.png"/> Terraform
+- <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/> AWS Cloud
 
 
 
