@@ -7,7 +7,7 @@
   - Email: kolipakahruday@gmail.com  
   - Phone No: +916304415093  
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love experimenting with new recipes in my free time!
+- ⚡ Fun fact: I've automated myself out of a job... and into a DevOps role!
 
 # 🛠 Tech Stack
 
