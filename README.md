@@ -11,7 +11,7 @@
 
 # 🛠 Tech Stack
 
-![Git](https://img.icons8.com/color/96/000000/git.png) ![Maven](https://img.icons8.com/color/96/000000/maven.png) ![Jenkins](https://img.icons8.com/color/96/000000/jenkins.png) ![Ansible](https://img.icons8.com/color/96/000000/ansible.png) ![Docker](https://img.icons8.com/color/96/000000/docker.png) ![Kubernetes](https://img.icons8.com/color/96/000000/kubernetes.png) ![Terraform](https://img.icons8.com/color/96/000000/terraform.png) ![AWS
+![Git](https://img.icons8.com/color/96/000000/git.png) ![Maven](https://img.icons8.com/color/96/000000/maven.png) ![Jenkins](https://img.icons8.com/color/96/000000/jenkins.png) ![Ansible](https://img.icons8.com/color/96/000000/ansible.png) ![Docker](https://img.icons8.com/color/96/000000/docker.png) ![Kubernetes](https://img.icons8.com/color/96/000000/kubernetes.png) ![Terraform](https://img.icons8.com/color/96/000000/terraform.png) ![AWS Cloud](https://img.icons8.com/color/96/000000/amazon-web-services.png) ![Tomcat](https://img.icons8.com/color/96/000000/tomcat.png) ![Nginx](https://img.icons8.com/color/96/000000/nginx.png) ![SonarQube](https://img.icons8.com/color/96/000000/sonarqube.png) ![Nexus](https://img.icons8.com/color/96/000000/nexus.png) ![Prometheus](https://img.icons8.com/color/96/000000/prometheus.png) ![Grafana](https://img.icons8.com/color/96/000000/grafana.png) ![Nagios](https://img.icons8.com/color/96/000000/nagios.png) ![SQL](https://img.icons8.com/color/96/000000/sql.png) ![Linux](https://img.icons8.com/color/96/000000/linux.png) ![Windows](https://img.icons8.com/color/96/000000/windows-10.png)
 
 
 
