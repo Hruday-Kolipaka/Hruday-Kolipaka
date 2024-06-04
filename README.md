@@ -9,15 +9,17 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new recipes in my free time!
 
-## Skills
-- ![Git](https://img.shields.io/badge/Git-90%25-success)
-- ![Maven](https://img.shields.io/badge/Maven-85%25-success)
-- ![Jenkins](https://img.shields.io/badge/Jenkins-80%25-success)
-- ![Ansible](https://img.shields.io/badge/Ansible-85%25-success)
-- ![Docker](https://img.shields.io/badge/Docker-90%25-success)
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-80%25-success)
-- ![Terraform](https://img.shields.io/badge/Terraform-85%25-success)
-- ![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-90%25-success)
+# Skills
+
+- ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
+- ![Maven](https://img.shields.io/badge/-Maven-black?logo=apache-maven&style=social)
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=social)
+- ![Ansible](https://img.shields.io/badge/-Ansible-black?logo=ansible&style=social)
+- ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)
+- ![Terraform](https://img.shields.io/badge/-Terraform-black?logo=terraform&style=social)
+- ![AWS Cloud](https://img.shields.io/badge/-AWS_Cloud-black?logo=amazon-aws&style=social)
+
 
 
 
