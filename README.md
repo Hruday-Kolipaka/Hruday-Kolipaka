@@ -2,10 +2,7 @@
 ## About Me
 - 👀 I’m interested in enhancing efficiency and collaboration within IT operations through DevOps practices.
 - 🌱 I’m currently learning more about cloud-native technologies and advanced automation techniques.
-- 💞️ I’m looking to collaborate on open-source projects related to DevOps tools and practices.
-- 📫 How to reach me: 
-  - Email: kolipakahruday@gmail.com  
-  - Phone No: +916304415093  
+- 💞️ I’m looking to collaborate on open-source projects related to DevOps tools and practices.  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've automated myself out of a job... and into a DevOps role!
 
@@ -16,7 +13,11 @@
 <img src="https://img.icons8.com/color/96/000000/grafana.png"/>
 <img src="https://img.icons8.com/color/96/000000/sql.png"/> <img src="https://img.icons8.com/color/96/000000/linux.png"/> <img src="https://img.icons8.com/color/96/000000/windows-10.png"/>
 
+# Connect with me:
 
+[![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/hruday-kolipaka/)
+[![Email](https://img.icons8.com/color/96/000000/gmail.png)](mailto:kolipakahruday@gmail.com)
+[![Phone](https://img.icons8.com/color/96/000000/phone.png)](tel:+916304415093)
 
 
 <!---
