@@ -13,7 +13,7 @@
 
 <img src="https://img.icons8.com/color/96/000000/git.png"/> <img src="https://img.icons8.com/color/96/000000/jenkins.png"/> <img src="https://img.icons8.com/color/96/000000/ansible.png"/> <img src="https://img.icons8.com/color/96/000000/docker.png"/>
 <img src="https://img.icons8.com/color/96/000000/kubernetes.png"/> <img src="https://img.icons8.com/color/96/000000/terraform.png"/> <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/96/000000/tomcat.png"/> <img src="https://img.icons8.com/color/96/000000/nginx.png"/>
-<img src="https://img.icons8.com/color/96/000000/grafana.png"/> <img src="https://img.icons8.com/color/96/000000/nagios.png"/>
+<img src="https://img.icons8.com/color/96/000000/grafana.png"/>
 <img src="https://img.icons8.com/color/96/000000/sql.png"/> <img src="https://img.icons8.com/color/96/000000/linux.png"/> <img src="https://img.icons8.com/color/96/000000/windows-10.png"/>
 
 
