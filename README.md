@@ -11,14 +11,7 @@
 
 # Skills
 
-- <img src="https://img.icons8.com/color/96/000000/git.png"/> Git
-- <img src="https://img.icons8.com/color/96/000000/maven.png"/> Maven
-- <img src="https://img.icons8.com/color/96/000000/jenkins.png"/> Jenkins
-- <img src="https://img.icons8.com/color/96/000000/ansible.png"/> Ansible
-- <img src="https://img.icons8.com/color/96/000000/docker.png"/> Docker
-- <img src="https://img.icons8.com/color/96/000000/kubernetes.png"/> Kubernetes
-- <img src="https://img.icons8.com/color/96/000000/terraform.png"/> Terraform
-- <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/> AWS Cloud
+![Git](https://img.icons8.com/color/96/000000/git.png) ![Maven](https://img.icons8.com/color/96/000000/maven.png) ![Jenkins](https://img.icons8.com/color/96/000000/jenkins.png) ![Ansible](https://img.icons8.com/color/96/000000/ansible.png) ![Docker](https://img.icons8.com/color/96/000000/docker.png) ![Kubernetes](https://img.icons8.com/color/96/000000/kubernetes.png) ![Terraform](https://img.icons8.com/color/96/000000/terraform.png) ![AWS Cloud](https://img.icons8.com/color/96/000000/amazon-web-services.png)
 
 
 
