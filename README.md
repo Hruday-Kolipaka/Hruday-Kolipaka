@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Hruday143
+# Hi there, I'm Hruday Kolipaka 👋
+## About Me
 - 👀 I’m interested in enhancing efficiency and collaboration within IT operations through DevOps practices.
 - 🌱 I’m currently learning more about cloud-native technologies and advanced automation techniques.
 - 💞️ I’m looking to collaborate on open-source projects related to DevOps tools and practices.
@@ -8,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new recipes in my free time!
 
-- ## Skills
+## Skills
 - <i class="fab fa-git"></i> Git
    <div style="width: 100%;">
        <div style="background-color: #ddd; height: 10px; border-radius: 5px;">
@@ -57,6 +58,7 @@
            <div style="background-color: #4caf50; height: 100%; width: 90%; border-radius: 5px;"></div>
        </div>
    </div>
+
 
 
 <!---
