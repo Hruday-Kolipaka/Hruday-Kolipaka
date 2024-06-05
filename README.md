@@ -1,6 +1,7 @@
 # Hi there, I'm Hruday Kolipaka 👋
 
-<img align="right" alt="Coding" width="400" src="[https://th.bing.com/th/id/OIP.coKWpbvraYO0w19EAyqzRQHaGQ?w=189&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7](https://th.bing.com/th?id=OIP.8puzX0532bXBCal89HhYBQHaE3&w=308&h=202&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2)">
+<img align="right" alt="Coding" width="300" src="https://th.bing.com/th/id/OIP.coKWpbvraYO0w19EAyqzRQHaGQ?w=189&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+
 
 
 ## About Me
