@@ -10,6 +10,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've automated myself out of a job... and into a DevOps role!
 
+
+
+
+
 # 🛠 Tech Stack
 
 <img src="https://img.icons8.com/color/96/000000/git.png"/> <img src="https://img.icons8.com/color/96/000000/jenkins.png"/> <img src="https://img.icons8.com/color/96/000000/ansible.png"/> <img src="https://img.icons8.com/color/96/000000/docker.png"/>
