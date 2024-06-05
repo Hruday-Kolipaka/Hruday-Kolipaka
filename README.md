@@ -1,7 +1,5 @@
 # Hi there, I'm Hruday Kolipaka
 
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th?q=DevOps+Programmer+Animated+GIF&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247">
-
 ## About Me
 - 👀 I’m interested in enhancing efficiency and collaboration within IT operations through DevOps practices.  
 - 🌱 I’m currently learning more about cloud-native technologies and advanced automation techniques.
