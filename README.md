@@ -1,6 +1,6 @@
 # Hi there, I'm Hruday Kolipaka 
 ## About Me
-<img align="right" alt="Coding" width="300" src="[https://th.bing.com/th/id/OIP.coKWpbvraYO0w19EAyqzRQHaGQ?w=189&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7](https://th.bing.com/th?q=DevOps+Website+Background+HD+GIF&dc=3&w=100&h=100&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 👀 I’m interested in enhancing efficiency and collaboration within IT operations through DevOps practices.  
 - 🌱 I’m currently learning more about cloud-native technologies and advanced automation techniques.
