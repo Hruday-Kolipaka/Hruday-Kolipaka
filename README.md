@@ -1,7 +1,8 @@
-# Hi there, I'm Hruday Kolipaka 
-## About Me
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+# Hi there, I'm Hruday Kolipaka
 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/116207...">
+
+## About Me
 - 👀 I’m interested in enhancing efficiency and collaboration within IT operations through DevOps practices.  
 - 🌱 I’m currently learning more about cloud-native technologies and advanced automation techniques.
 - 💞️ I’m looking to collaborate on open-source projects related to DevOps tools and practices.
