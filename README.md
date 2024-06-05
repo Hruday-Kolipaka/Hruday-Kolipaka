@@ -1,6 +1,6 @@
 # Hi there, I'm Hruday Kolipaka
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 ## About Me
 - 👀 I’m interested in enhancing efficiency and collaboration within IT operations through DevOps practices.  
