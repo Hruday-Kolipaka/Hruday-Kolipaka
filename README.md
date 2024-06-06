@@ -1,6 +1,5 @@
-# Hi there, I'm Hruday Kolipaka
+![Hi there, I'm Hruday Kolipaka](animated_full_text.gif)
 
-![Hi there, I'm Hruday Kolipaka](animated_text.gif)
 
 
 ## About Me
