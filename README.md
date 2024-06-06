@@ -1,6 +1,4 @@
-![Hi there, I'm Hruday Kolipaka](animated_full_text.gif)
-
-
+# Hi there, I'm Hruday Kolipaka
 
 ## About Me
 - 👀 I’m interested in enhancing efficiency and collaboration within IT operations through DevOps practices.  
