@@ -21,10 +21,7 @@
 
 ## 🛠 &nbsp; Tech Stack
 
-<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 80%; margin: auto; border: 2px solid #4CAF50;">
-    <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center; padding: 10px;">Operating Systems</th>
-    </tr>
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; max-width: 600px; margin: auto; border: 2px solid #4CAF50; background-color: #f9f9f9;">
     <tr>
         <td align='center'>
             <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="60">
@@ -38,9 +35,9 @@
         <td align='center'>
             <img src="https://img.icons8.com/color/96/000000/red-hat.png" width="60">
         </td>
-    </tr>
-    <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center; padding: 10px;">Cloud Providers</th>
+        <td align='center'>
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="60">
+        </td>
     </tr>
     <tr>
         <td align='center'>
@@ -58,9 +55,6 @@
         <td align='center'>
             <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="60">
         </td>
-    </tr>
-    <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center; padding: 10px;">DevOps Tools</th>
     </tr>
     <tr>
         <td align='center'>
@@ -84,9 +78,6 @@
         </td>
     </tr>
     <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center; padding: 10px;">CI/CD & Monitoring</th>
-    </tr>
-    <tr>
         <td align='center'>
             <img src="https://skillicons.dev/icons?i=jenkins" width="60">
         </td>
@@ -104,9 +95,6 @@
         <td align='center'>
             <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="60">
         </td>
-    </tr>
-    <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center; padding: 10px;">Miscellaneous</th>
     </tr>
     <tr>
         <td align='center'>
