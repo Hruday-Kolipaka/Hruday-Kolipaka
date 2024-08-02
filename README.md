@@ -18,98 +18,98 @@
 - 📫 How to reach me kolipakahruday@gmail.com  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've automated myself out of a job... and into a DevOps role!
+
+
 ## 🛠 &nbsp; Tech Stack
 
-<table style="border-collapse: collapse; width: 100%; max-width: 800px;">
+<table style="border-collapse: collapse; width: 100%; max-width: 900px;">
     <tr>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://img.icons8.com/color/96/000000/red-hat.png" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://img.icons8.com/color/96/000000/ubuntu.png" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://img.icons8.com/ios-filled/50/000000/centos.png" width="110">
         </td>
     </tr>
     <tr>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Vagrant.gif" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/azure.gif" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Google%20Cloud.gif" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="110">
         </td>
     </tr>
     <tr>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
-            <a href="https://softwarelife.github.io/devops/terraform/">
-                <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="110">
-            </a>
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
+            <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
-            <a href="https://softwarelife.github.io/devops/ansible/">
-                <img src="https://skillicons.dev/icons?i=ansible" width="110">
-            </a>
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
+            <img src="https://skillicons.dev/icons?i=ansible" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://skillicons.dev/icons?i=bash" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://skillicons.dev/icons?i=powershell" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="110">
         </td>
     </tr>
     <tr>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://skillicons.dev/icons?i=vim" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://miro.medium.com/v2/resize:fit:303/1*nViWw5hFgS7l3vu1RkO3YA.png" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://skillicons.dev/icons?i=jenkins" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Azure%20Devops.gif" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="110">
         </td>
     </tr>
     <tr>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
-            <a href="https://softwarelife.github.io/devops/docker-setup/">
-                <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="110">
-            </a>
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://skillicons.dev/icons?i=vscode" width="110">
         </td>
-        <td style="text-align: center; padding: 15px; border: 2px solid #ddd; width: 150px; height: 150px;">
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
             <img src="https://skillicons.dev/icons?i=markdown" width="110">
+        </td>
+        <td style="text-align: center; padding: 20px; border: 2px solid #ddd; width: 180px; height: 180px;">
+            <!-- Placeholder for additional icon -->
         </td>
     </tr>
 </table>
+
 
 
 
