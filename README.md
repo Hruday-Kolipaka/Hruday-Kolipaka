@@ -131,9 +131,11 @@
 
 ## 📫 &nbsp; Connect with me
 
-[![LinkedIn](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)](https://www.linkedin.com/in/hruday-kolipaka/)
-[![Instagram](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)](https://www.instagram.com/your-instagram-username)
-[![Gmail](https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/hruday-kolipaka/)
+[![Instagram](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/your-instagram-username)
+[![Gmail](https://img.icons8.com/color/96/000000/gmail.png)](mailto:your-email@gmail.com)
+[![Phone](https://img.icons8.com/color/96/000000/phone.png)](tel:your-phone-number)
+
 
 
 
