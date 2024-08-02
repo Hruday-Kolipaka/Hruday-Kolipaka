@@ -97,7 +97,6 @@
 </tr>
 </table>
 
-<img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/terminal.gif" > 
 
 
 
