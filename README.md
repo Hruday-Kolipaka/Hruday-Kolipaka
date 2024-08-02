@@ -23,6 +23,26 @@
 
 
 <table>
+    <tr>
+    <td align='center'>
+        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="70" >
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="100" >
+    </td>
+    <td align='center'>
+        <img src="https://img.icons8.com/color/96/000000/red-hat.png"/>
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ubuntu_logo_2020.svg/1280px-Ubuntu_logo_2020.svg.png" width="70">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Centos-Logo.svg" width="70">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Amazon_Linux_2_logo.png" width="70">
+    </td>
+
 <tr>
     <td align='center'>
         <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="70" >
