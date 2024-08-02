@@ -132,14 +132,15 @@
 ## 📫 &nbsp; Connect with me
 
 <a href="https://www.linkedin.com/in/hruday-kolipaka/">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30">
 </a>
 <a href="https://www.instagram.com/hruday_kolipaka/">
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50">
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30">
 </a>
 <a href="mailto:kolipakahruday@gmail.com">
-    <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="50">
+    <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="30">
 </a>
+
 
 
 
