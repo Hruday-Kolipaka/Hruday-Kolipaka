@@ -21,93 +21,131 @@
 
 ## 🛠 &nbsp; Tech Stack
 
-<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; max-width: 600px; margin: auto; border: 2px solid #4CAF50; background-color: #f9f9f9;">
+<table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; width: 100%; max-width: 800px; margin: auto; border: 2px solid #4CAF50; background-color: #f9f9f9;">
     <tr>
         <td align='center'>
-            <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="60">
+            <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="80">
         </td>
         <td align='center'>
-            <img src="https://img.icons8.com/color/96/000000/ubuntu.png" width="60">
+            <img src="https://img.icons8.com/color/96/000000/ubuntu.png" width="80">
         </td>
         <td align='center'>
-            <img src="https://img.icons8.com/ios-filled/50/000000/centos.png" width="60">
+            <img src="https://img.icons8.com/ios-filled/50/000000/centos.png" width="80">
         </td>
         <td align='center'>
-            <img src="https://img.icons8.com/color/96/000000/red-hat.png" width="60">
+            <img src="https://img.icons8.com/color/96/000000/red-hat.png" width="80">
         </td>
         <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="60">
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="80">
+        </td>
+        <td align='center'>
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/amazon.gif" width="80">
         </td>
     </tr>
     <tr>
         <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Vagrant.gif" width="60">
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Vagrant.gif" width="80">
         </td>
         <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/azure.gif" width="60">
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/azure.gif" width="80">
         </td>
         <td align='center'>
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80">
         </td>
         <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Google%20Cloud.gif" width="60">
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Google%20Cloud.gif" width="80">
         </td>
         <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="60">
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="80">
+        </td>
+        <td align='center'>
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/elastic.gif" width="80">
         </td>
     </tr>
     <tr>
         <td align='center'>
             <a href="https://softwarelife.github.io/devops/terraform/">
-                <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="60">
+                <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="80">
             </a>
         </td>
         <td align='center'>
             <a href="https://softwarelife.github.io/devops/ansible/">
-                <img src="https://skillicons.dev/icons?i=ansible" width="60">
+                <img src="https://skillicons.dev/icons?i=ansible" width="80">
             </a>
         </td>
         <td align='center'>
-            <img src="https://skillicons.dev/icons?i=bash" width="60">
+            <img src="https://skillicons.dev/icons?i=bash" width="80">
         </td>
         <td align='center'>
-            <img src="https://skillicons.dev/icons?i=powershell" width="60">
+            <img src="https://skillicons.dev/icons?i=powershell" width="80">
         </td>
         <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="60">
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80">
+        </td>
+        <td align='center'>
+            <img src="https://miro.medium.com/v2/resize:fit:303/1*nViWw5hFgS7l3vu1RkO3YA.png" width="80">
         </td>
     </tr>
     <tr>
         <td align='center'>
-            <img src="https://skillicons.dev/icons?i=jenkins" width="60">
+            <img src="https://skillicons.dev/icons?i=jenkins" width="80">
         </td>
         <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Azure%20Devops.gif" width="60">
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Azure%20Devops.gif" width="80">
         </td>
         <td align='center'>
-            <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="60">
+            <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="80">
         </td>
         <td align='center'>
             <a href="https://softwarelife.github.io/devops/docker-setup/">
-                <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60">
+                <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80">
             </a>
         </td>
         <td align='center'>
-            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="60">
+            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">
+        </td>
+        <td align='center'>
+            <img src="https://skillicons.dev/icons?i=vim" width="80">
         </td>
     </tr>
     <tr>
         <td align='center'>
-            <img src="https://skillicons.dev/icons?i=vscode" width="60">
+            <img src="https://skillicons.dev/icons?i=vscode" width="80">
         </td>
         <td align='center'>
-            <img src="https://skillicons.dev/icons?i=markdown" width="60">
+            <img src="https://skillicons.dev/icons?i=markdown" width="80">
         </td>
-        <td align='center' colspan="3">
-            <!-- Empty space for alignment -->
+        <td align='center'>
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/jenkins.gif" width="80">
+        </td>
+        <td align='center'>
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/docker.gif" width="80">
+        </td>
+        <td align='center'>
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/kubernetes.gif" width="80">
+        </td>
+        <td align='center'>
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/mongodb.gif" width="80">
         </td>
     </tr>
-</table>
+    <tr>
+        <td align='center'>
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/elastic.gif" width="80">
+        </td>
+        <td align='center'>
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/aws.gif" width="80">
+        </td>
+        <td align='center'>
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/azure.gif" width="80">
+        </td>
+        <td align='center'>
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/terraform.gif" width="80">
+        </td>
+        <td align='center'>
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/ansible.gif" width="80">
+        </td>
+        <td align='center'>
+            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/bash.gif" width="80">
 
 
 
