@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hruday143&label=Profile%20views&color=0e75b6&style=flat" alt="Hruday143" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hruday143" alt="Hruday143" /></a> </p>
+
 
 
 ## About Me
