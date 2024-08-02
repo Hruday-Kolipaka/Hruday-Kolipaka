@@ -35,6 +35,11 @@
 
 [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/hruday-kolipaka/)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hruday143&show_icons=true&locale=en&layout=compact" alt="Hruday143" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hruday143&show_icons=true&locale=en" alt="Hruday143" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hruday143&" alt="Hruday143" /></p>
 
 
 
