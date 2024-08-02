@@ -1,5 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1000&pause=500&color=00E4A9&width=600&&repeat=true&height=70&lines=Hey!;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+HRUDAY+KOLIPAKA;DevOps+Engineer)](https://git.io/typing-svg)
 
+[![MasterHead](https://www.veracode.com/sites/default/files/2021-02/hackergames-hero-main.jpg)](https://codegrills.in)
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<h1 align="center">Hi 👋, I'm Hruday</h1>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hruday143&label=Profile%20views&color=0e75b6&style=flat" alt="Hruday143" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hruday143" alt="Hruday143" /></a> </p>
+
+
 ## About Me
 - 👀 I’m interested in enhancing efficiency and collaboration within IT operations through DevOps practices.  
 - 🌱 I’m currently learning more about cloud-native technologies and advanced automation techniques.
