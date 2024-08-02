@@ -43,6 +43,15 @@
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/ubuntu.png" width="80">
     </td>
+    <!-- NGNIX -->
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=nginx" width="80">
+    </td>
+    <!-- TOMCAT -->
+    <td align='center'>
+        <img src="https://img.icons8.com/color/96/000000/tomcat.png"/>
+    </td>
+
 </tr>
 <tr>
     <td align='center'>
