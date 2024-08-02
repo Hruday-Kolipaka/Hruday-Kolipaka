@@ -104,6 +104,9 @@
     </td>
 </tr>
 <tr>
+    <!-- APACHE -->
+    <td align='center'>
+        <img src="https://images.sftcdn.net/images/t_app-icon-m/p/ddc05574-9b32-11e6-8828-00163ec9f5fa/3020973661/apache-http-server-logo.jpg" width="80" alt="Apache Web Server">
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=jenkins" width="80">
     </td>
@@ -122,9 +125,7 @@
        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=vscode" width="80">
-     <td align='center'>
-        <img src="https://skillicons.dev/icons?i=markdown" width="80">
-    </td>        
+           
 </tr>
 </table>
 
