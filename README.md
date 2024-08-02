@@ -132,9 +132,9 @@
 ## 📫 &nbsp; Connect with me
 
 [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/hruday-kolipaka/)
-[![Instagram](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/your-instagram-username)
-[![Gmail](https://img.icons8.com/color/96/000000/gmail.png)](mailto:your-email@gmail.com)
-[![Phone](https://img.icons8.com/color/96/000000/phone.png)](tel:your-phone-number)
+[![Instagram](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/hruday_kolipaka/)
+[![Gmail](https://img.icons8.com/color/96/000000/gmail.png)](mailto:kolipakahruday@gmail.com)
+
 
 
 
