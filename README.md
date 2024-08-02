@@ -129,13 +129,12 @@
 </table>
 
 
-
 ## 📫 &nbsp; Connect with me
 
-[![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/hruday-kolipaka/)
-[![Instagram](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/hruday_kolipaka/)
-[![Gmail](https://img.icons8.com/color/96/000000/gmail.png)](mailto:kolipakahruday@gmail.com)
-[![Phone](https://img.icons8.com/color/96/000000/phone.png)](tel:6304415093)
+[![LinkedIn](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)](https://www.linkedin.com/in/hruday-kolipaka/)
+[![Instagram](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)](https://www.instagram.com/hruday_kolipaka/)
+[![Gmail](https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif)](mailto:kolipakahruday@gmail.com)
+
 
 
 
