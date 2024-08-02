@@ -130,13 +130,15 @@
 
 
 
-
-
-
-
-# Connect with me:
+## 📫 &nbsp; Connect with me
 
 [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/hruday-kolipaka/)
+[![Instagram](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/hruday_kolipaka/)
+[![Gmail](https://img.icons8.com/color/96/000000/gmail.png)](mailto:kolipakahruday@gmail.com)
+[![Phone](https://img.icons8.com/color/96/000000/phone.png)](tel:6304415093)
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hruday143&show_icons=true&locale=en&layout=compact" alt="Hruday143" /></p>
 
