@@ -68,6 +68,9 @@
     <td align='center'>
         <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="80">
     </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/08b2a31b78041811e266e1cf2d47e7b2020a5e4a/gifs/Prometheus.gif" width="80">
+    </td>
     <!-- MYSQL -->
     <td align='center'>
         <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="80">
