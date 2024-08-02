@@ -21,9 +21,9 @@
 
 ## 🛠 &nbsp; Tech Stack
 
-<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%;">
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 90%; margin: auto; border: 2px solid #4CAF50;">
     <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center;">Operating Systems</th>
+        <th colspan="5" style="background-color: #f4f4f4; text-align: center; padding: 10px;">Operating Systems</th>
     </tr>
     <tr>
         <td align='center'>
@@ -39,11 +39,11 @@
             <img src="https://img.icons8.com/color/96/000000/red-hat.png" width="60">
         </td>
         <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="80">
+            <img src="https://www.amazon.com/images/G/01/aas/icons/amazon-linux.svg" width="60">
         </td>
     </tr>
     <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center;">Cloud Providers</th>
+        <th colspan="5" style="background-color: #f4f4f4; text-align: center; padding: 10px;">Cloud Providers</th>
     </tr>
     <tr>
         <td align='center'>
@@ -63,7 +63,7 @@
         </td>
     </tr>
     <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center;">DevOps Tools</th>
+        <th colspan="5" style="background-color: #f4f4f4; text-align: center; padding: 10px;">DevOps Tools</th>
     </tr>
     <tr>
         <td align='center'>
@@ -87,7 +87,7 @@
         </td>
     </tr>
     <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center;">CI/CD & Monitoring</th>
+        <th colspan="5" style="background-color: #f4f4f4; text-align: center; padding: 10px;">CI/CD & Monitoring</th>
     </tr>
     <tr>
         <td align='center'>
@@ -109,7 +109,7 @@
         </td>
     </tr>
     <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center;">Miscellaneous</th>
+        <th colspan="5" style="background-color: #f4f4f4; text-align: center; padding: 10px;">Miscellaneous</th>
     </tr>
     <tr>
         <td align='center'>
@@ -123,113 +123,6 @@
         </td>
     </tr>
 </table>
-
-
-## 🛠 &nbsp; Tech Stack
-
-<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%;">
-    <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center;">Operating Systems</th>
-    </tr>
-    <tr>
-        <td align='center'>
-            <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="60">
-        </td>
-        <td align='center'>
-            <img src="https://img.icons8.com/color/96/000000/ubuntu.png" width="60">
-        </td>
-        <td align='center'>
-            <img src="https://img.icons8.com/ios-filled/50/000000/centos.png" width="60">
-        </td>
-        <td align='center'>
-            <img src="https://img.icons8.com/color/96/000000/red-hat.png" width="60">
-        </td>
-        <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="80">
-        </td>
-    </tr>
-    <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center;">Cloud Providers</th>
-    </tr>
-    <tr>
-        <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Vagrant.gif" width="60">
-        </td>
-        <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/azure.gif" width="60">
-        </td>
-        <td align='center'>
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60">
-        </td>
-        <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Google%20Cloud.gif" width="60">
-        </td>
-        <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="60">
-        </td>
-    </tr>
-    <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center;">DevOps Tools</th>
-    </tr>
-    <tr>
-        <td align='center'>
-            <a href="https://softwarelife.github.io/devops/terraform/">
-                <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="70">
-            </a>
-        </td>
-        <td align='center'>
-            <a href="https://softwarelife.github.io/devops/ansible/">
-                <img src="https://skillicons.dev/icons?i=ansible" width="70">
-            </a>
-        </td>
-        <td align='center'>
-            <img src="https://skillicons.dev/icons?i=bash" width="70">
-        </td>
-        <td align='center'>
-            <img src="https://skillicons.dev/icons?i=powershell" width="70">
-        </td>
-        <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="70">
-        </td>
-    </tr>
-    <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center;">CI/CD & Monitoring</th>
-    </tr>
-    <tr>
-        <td align='center'>
-            <img src="https://skillicons.dev/icons?i=jenkins" width="70">
-        </td>
-        <td align='center'>
-            <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Azure%20Devops.gif" width="70">
-        </td>
-        <td align='center'>
-            <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="70">
-        </td>
-        <td align='center'>
-            <a href="https://softwarelife.github.io/devops/docker-setup/">
-                <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70">
-            </a>
-        </td>
-        <td align='center'>
-            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70">
-        </td>
-    </tr>
-    <tr>
-        <th colspan="5" style="background-color: #f4f4f4; text-align: center;">Miscellaneous</th>
-    </tr>
-    <tr>
-        <td align='center'>
-            <img src="https://skillicons.dev/icons?i=vscode" width="70">
-        </td>
-        <td align='center'>
-            <img src="https://skillicons.dev/icons?i=markdown" width="70">
-        </td>
-        <td align='center' colspan="3">
-            <!-- Empty space for alignment -->
-        </td>
-    </tr>
-</table>
-
 
 
 
