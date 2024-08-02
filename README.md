@@ -19,6 +19,85 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've automated myself out of a job... and into a DevOps role!
 
+## 🛠 &nbsp; Tech Stack
+
+
+<table>
+<tr>
+    <td align='center'>
+        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="70" >
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="100" >
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Vagrant.gif" width="80" >
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/azure.gif" width="90">
+    </td>
+     <td align='center'>
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" >
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Google%20Cloud.gif" width="80">
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="80">
+    </td>
+
+<tr>
+    <td align='center'>
+  <a href="https://softwarelife.github.io/devops/terraform/">
+    <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="90">
+  </a>
+</td>
+    <td align='center'>
+        <a href="https://softwarelife.github.io/devops/ansible/">
+        <img src="https://skillicons.dev/icons?i=ansible" width="80">
+        </a>   
+    </td>
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=bash" width="80">
+    </td>
+     <td align='center'>
+        <img src="https://skillicons.dev/icons?i=powershell" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80" >
+    </td>
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=vim" width="80" >
+    </td>  
+    <td align='center'>
+        <img src="https://miro.medium.com/v2/resize:fit:303/1*nViWw5hFgS7l3vu1RkO3YA.png" width="80">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=jenkins" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Azure%20Devops.gif" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="80">
+    </td>
+    <td align='center'>
+                <a href="https://softwarelife.github.io/devops/docker-setup/">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80">
+                </a>
+    </td>
+    <td align='center'>
+       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=vscode" width="80">
+     <td align='center'>
+        <img src="https://skillicons.dev/icons?i=markdown" width="80">
+    </td>        
+</tr>
+</table>
+
+<img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/terminal.gif" > 
 
 
 
