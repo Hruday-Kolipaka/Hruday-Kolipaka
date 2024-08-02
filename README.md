@@ -3,7 +3,7 @@
 [![MasterHead](https://www.veracode.com/sites/default/files/2021-02/hackergames-hero-main.jpg)](https://codegrills.in)
 
 <img align="right" alt="Coding" width="280" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<h1 align="center">Hi 👋, I'm Hruday</h1>
+
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hruday143&label=Profile%20views&color=0e75b6&style=flat" alt="Hruday143" /> </p>
