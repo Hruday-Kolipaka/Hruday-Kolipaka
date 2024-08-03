@@ -158,7 +158,7 @@
 
 [![Hruday Kolipaka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hruday143&theme=react-dark)](https://github.com/Hruday143/github-readme-activity-graph)
 <div align="center">
- <img src="https://raw.githubusercontent.com/durgeshm01722/durgeshm01722/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/Hruday143/Hruday143/output/snake.svg" alt="Snake animation" />
 </div>
 
 
