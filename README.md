@@ -27,7 +27,7 @@
 - ⚡ Fun fact: I've automated myself out of a job... and into a DevOps role!
 
 
-## 🛠 &nbsp; Tech Stack
+## 🛠 &nbsp; TECH STACK
 
 
 <table>
