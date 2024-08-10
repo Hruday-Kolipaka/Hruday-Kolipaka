@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm Hruday</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hruday143&label=Profile%20views&color=0e75b6&style=flat" alt="Hruday143" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hruday-Kolipaka&label=Profile%20views&color=0e75b6&style=flat" alt="Hruday-Kolipaka" /> </p>
 
 
 
@@ -150,18 +150,18 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hruday143&show_icons=true&locale=en&layout=compact" alt="Hruday143" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hruday-Kolipaka&show_icons=true&locale=en&layout=compact" alt="Hruday-Kolipaka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hruday143&show_icons=true&locale=en" alt="Hruday143" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hruday-Kolipaka&show_icons=true&locale=en" alt="Hruday-Kolipaka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hruday143&" alt="Hruday143" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hruday-Kolipaka&" alt="Hruday-Kolipaka" /></p>
 
-[![Hruday Kolipaka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hruday143&theme=react-dark)](https://github.com/Hruday143/github-readme-activity-graph)
+[![Hruday Kolipaka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hruday-Kolipaka&theme=react-dark)](https://github.com/Hruday-Kolipaka/github-readme-activity-graph)
 
 
 
 
 <!---
-Hruday143/Hruday143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hruday-Kolipaka/Hruday-Kolipaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
