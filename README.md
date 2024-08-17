@@ -143,6 +143,16 @@
 [![Instagram](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/hruday_kolipaka/)
 [![Gmail](https://img.icons8.com/color/96/000000/gmail.png)](mailto:kolipakahruday@gmail.com)
 
+<div id="header" >
+<div id="badges">
+  <a href="https://www.linkedin.com/in/hruday-kolipaka/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:kolipakahruday@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=Hruday-Kolipaka&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 
