@@ -137,11 +137,6 @@
 </table>
 
 
-## 📫 &nbsp; Connect with me
-
-[![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/hruday-kolipaka/)
-[![Instagram](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/hruday_kolipaka/)
-[![Gmail](https://img.icons8.com/color/96/000000/gmail.png)](mailto:kolipakahruday@gmail.com)
 
 <div id="header" >
 <div id="badges">
@@ -150,6 +145,9 @@
   </a>
   <a href="mailto:kolipakahruday@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+  <a href="https://www.instagram.com/hruday_kolipaka/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Hruday-Kolipaka&style=flat-square&color=blue" alt=""/>
 </div>
